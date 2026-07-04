@@ -59,5 +59,7 @@ Pour maximiser l'apprentissage, ce dépôt suit une structure stricte :
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone [https://github.com/TON_PSEUDO/NOM_DU_REPO.git](https://github.com/TON_PSEUDO/NOM_DU_REPO.git)
-   cd NOM_DU_REPO
+   git clone https://github.com/Claude-Mutela/react-basics-exercises.git
+   cd react-basics-exercises
+   npm install
+   npm run dev

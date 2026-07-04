@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
   return (
     <>
       <section id="center">
-       
+        
       </section>
 
       <div className="ticks"></div>
